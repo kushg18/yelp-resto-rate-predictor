@@ -21,3 +21,4 @@ This project is about creating machine learning models to predict the rating giv
 
 ### Word Cloud ###
 -----------------------------
+![alt text](https://github.com/kushg18/yelp-resto-rate-predictor/blob/master/src/wordcloud.png)
